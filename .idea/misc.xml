@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/io-bound-applications/pom.xml" />
+        <option value="$PROJECT_DIR$/virtualthreading-in-java-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/ioBoundApplication-in-java/pom.xml" />
       </list>
     </option>
   </component>
